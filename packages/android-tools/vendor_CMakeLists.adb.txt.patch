@@ -7,6 +7,6 @@ index 2b6d8f0..ee55949 100644
  	brotlienc
  	lz4
 -	pthread
- 	usb-1.0
+ 	usb-3.0
  	z
  	zstd)
